@@ -1,12 +1,13 @@
-# 👨‍💻 Nicolas | Étudiant en Réseaux & Télécommunications  
+### 👨‍💻 Nicolas | Networks & Telecommunications Student  
 
-Passionné par le **Big Data**, la **Cybersécurité**, les **Réseaux** et le **Développement**, je suis en 3e année de BUT Réseaux et Télécommunications. J'adore résoudre des problèmes techniques complexes et apprendre en continu sur les nouvelles technologies.
+Passionate about **AI**, **Cybersecurity**, **Networks**, and **Development**. Currently in my 3rd year of a Networks & Telecommunications Bachelor's degree. I thrive on solving complex technical challenges and continuously expanding my expertise in emerging technologies.  
 
-## 🛠️ Compétences
-- 📊 **Big Data**
-- 🔐 **Cybersécurité**
-- 🌐 **Réseaux**
-- 💻 **Développement**
+#### 🛠️ Technical Skills  
+- 🤖 **AI** (Machine Learning, Data Modeling)  
+- 🔐 **Cybersecurity** (Threat Analysis, Security Protocols)  
+- 🌐 **Networks** (Infrastructure, Cloud Solutions)  
+- 💻 **Development** (Automation, Scripting)  
 
-## 📫 Contactez-moi
-Envie d'échanger ou de collaborer ? [Envoyez-moi un message](https://nico-rab.tech/#contact) !
+#### 📫 Let's Collaborate  
+Interested in discussing tech innovations or potential projects?  
+[Reach out via my portal](https://nico-rab.tech/#contact) →  
