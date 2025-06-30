@@ -1,4 +1,4 @@
-## 👨‍💻 Nicolas | Networks & Telecommunications Student  
+## 👨‍💻 Nicolas | IT Student  
 
 Passionate about **AI**, **Cybersecurity**, **Networks**, and **Development**. Currently in my 3rd year of a Networks & Telecommunications Bachelor's degree. I thrive on solving complex technical challenges and continuously expanding my expertise in emerging technologies.  
 
